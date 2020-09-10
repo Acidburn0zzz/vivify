@@ -1,21 +1,21 @@
 {
-  "name": "vivifycss",
-  "version": "1.0.0",
+  "name": "vivifycss-nightly",
+  "version": "a01:1.0.0",
   "description": "Vivify is free CSS animation library",
-  "main": "vivify.css",
+  "main": "vivify-nightly.css",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Martz90/vivify.git"
+    "type": "gh-pages",
+    "url": "https://github.com/Acidburn0zzz/vivify-nightly.git"
   },
   "keywords": [
-    "vivify",
+    "vivify-nightly",
     "css",
     "animation"
   ],
-  "author": "Martin Kníže",
+  "Original Conception & Credits for the toolkits publication as Author": "Martin Kníže",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Martz90/vivify/issues"
+    "url": "https://github.com/Acidburn0zzz/vivify/issues"
   },
-  "homepage": "http://vivify.mkcreative.cz/"
+  "homepage": "http://vivify-nightly.github.io/Acidburn0zzz/gh-pages/"
 }
